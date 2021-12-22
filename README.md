@@ -1,11 +1,11 @@
 ### Hi there 👋
-###PISCINE BADGE:
+PISCINE BADGE:
 
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/obouadel?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
 
 
-###42cursus BADGE:
+42cursus BADGE:
 
 
 
